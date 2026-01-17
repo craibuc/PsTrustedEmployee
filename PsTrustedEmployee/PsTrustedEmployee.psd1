@@ -30,7 +30,7 @@ CompanyName = 'Cogniza, Inc.'
 Copyright = '(c) Cogniza, Inc.. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'PowerShell wrapper for Trusted Employee API.'
+Description = 'PowerShell wrapper for the Trusted Employee API.'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
